@@ -1,0 +1,52 @@
+#body {
+  background-color: #FFEF00;
+}
+
+h2+p {
+  background-color: #7F7700;
+  color: white;
+}
+
+h1,h2 {
+  color: #403C00;
+}
+
+a {
+  color: teal;
+}
+
+a:visited {
+  color: white;
+}
+
+div li {
+  background-color: #BFB300;
+}
+
+p {
+  border: 1px solid black
+}
+
+#marks  tr:nth-child(even) {
+  background-color: pink;
+}
+
+#marks  tr:nth-child(odd) {
+  background-color: lightgreen;
+}
+
+#highmark {
+  background-color: teal !important;
+}
+
+.tues {
+  background-color: red;
+}
+
+.mon {
+  background-color: salmon;
+}
+
+li:hover {
+  background-color: pink;
+}text
